@@ -92,12 +92,14 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=lukeskw&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<br/>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukeskw&layout=compact" align="center" /></div>  
 
 <br/>  
 
 
 ## What I Listen To  
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=12166174224&cover_image=true&theme=compact" /></div>  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=12166174224&cover_image=true&theme=compact" align="center /></div>  
 
 <br/>  
 
