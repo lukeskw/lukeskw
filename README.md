@@ -1,8 +1,10 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=D4E8F7&center=true&width=900&height=150&lines=Hello+There!+%F0%9F%A7%94%F0%9F%8F%BB;I'm+Luke;Nice+to+see+you+around+here)](https://git.io/typing-svg)
+
+<br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=D4E8F7&center=true&width=900&height=150&lines=Hello+There!+%F0%9F%9A%80;I'm+Luke;Nice+to+see+you+around+here)](https://git.io/typing-svg)
 
 
 ### <div align="center">I'm Luke, a junior brazilian web developer 💻and I'm on the area since 2020</div>  
