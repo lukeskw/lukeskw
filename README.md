@@ -85,7 +85,6 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
 
 <br/>  
 
@@ -99,7 +98,7 @@
 
 
 ## What I Listen To  
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=12166174224&cover_image=true&theme=compact" align="center /></div>  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=12166174224&cover_image=true&theme=compact" align="center" /></div>  
 
 <br/>  
 
