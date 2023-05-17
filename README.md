@@ -7,7 +7,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=D4E8F7&center=true&width=900&height=150&lines=Hello+There!+%F0%9F%9A%80;I'm+Luke;Nice+to+see+you+around+here)](https://git.io/typing-svg)
 
 
-### <div align="center">I'm Luke, a junior brazilian web developer 💻and I'm on the area since 2020</div>  
+### <div align="center">I'm Luke, a brazilian web developer 💻and I'm on the area since 2020</div>  
   
 
 - 🌱 I’m currently learning Laravel, Typescript and NextJS  
@@ -16,7 +16,7 @@
 - 🚀 I'm working with Laravel and loving it  
   
 
-- ⚡ Fun fact: I use all of my RAM with browser tabs  
+- ⚡ Fun fact: I use all of my RAM with browser tabs, most of my repos are private and I use my company's Git account for most of my time 😂
   
 
 <br/>  
