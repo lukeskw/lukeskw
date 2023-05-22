@@ -16,7 +16,10 @@
 - 🚀 I'm working with Laravel and loving it
 
 
-- ⚡ Fun fact: I use all of my RAM with browser tabs, most of my repos are private and I use my company's Git account for most of my time 😂
+- 📚 I'm reading Uncle Bob's Clean Code, and I'm about to start reading Clean Architecture
+
+
+- ⚡ Fun fact: I use all of my RAM with browser tabs, most of my repos are private, I'm totally addicted to Rocketseat's NLW and I use my company's Git account for most of my time 😂
 
 
 <br/>  
