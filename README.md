@@ -24,7 +24,7 @@
 
 ## Tech Stack
 
-#### These are the technologies and tools that I use daily or have used at least once, ranked in LRU order.
+#### These are the technologies and tools that I use daily or have used at least once, ranked in MRU order.
 
 #### Frontend:
 
